@@ -1,0 +1,25 @@
+# .NET build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# Production secrets 
+appsettings.Development.json
+appsettings.Production.json
+appsettings.*.local.json
+
+
+# EF Core migrations 
+*.mdf
+*.ldf
+*.db
+*.db-shm
+*.db-wal
+
+
+# Secrets manager
+secrets.json

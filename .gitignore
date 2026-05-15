@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode
+.vscode/settings.json
+.vscode/*.code-workspace
+
+# Logs
+*.log
+npm-debug.log*
+
+node_modules/
+bin/
+obj/
